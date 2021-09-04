@@ -4,7 +4,7 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>:: Dashboard</title>
+        <title><?php echo $sitename; ?> :: Dashboard</title>
         <?php include_once("../../includes/css.php"); ?>
     </head>
     <body class="sidebar-mini layout-fixed layout-navbar-fixed layout-footer-fixed">

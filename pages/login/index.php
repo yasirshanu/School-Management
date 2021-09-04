@@ -4,7 +4,7 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>:: Login</title>
+        <title><?php echo $sitename; ?> :: Login</title>
         <?php include_once("../../includes/css.php"); ?>
     </head>
     <body class="hold-transition login-page">
